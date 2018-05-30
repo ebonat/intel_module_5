@@ -1,0 +1,9 @@
+one,two,three,four,five,timestamp
+,2.1,3.1,bar,TRUE,
+,,3.2,,FALSE,1/1/2017
+1.3,2.3,3.3,club,TRUE,2/1/2017
+1.4,2.4,,bar,,3/1/2017
+,2.5,3.5,bar,FALSE,
+1.3,,3.3,club,TRUE,2/1/2017
+1.6,2.5,,house,,4/1/2017
+1.3,2.3,3.3,club,TRUE,2/1/2017
